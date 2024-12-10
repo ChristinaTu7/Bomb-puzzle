@@ -1,3 +1,1 @@
-This is bomb 232.
-
-It belongs to tu000067 (tu000067@umn.edu)
+A bomb puzzle created in C that allows the user to use the gdb debugger to access Assembly to solve the puzzles. Each bomb that explodes takes a point off. Created in 2024.
